@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "2 Beef Shawarma",
+    "description": "2 Beef Shawarma",
+    "price": "49 000sum",
+    "img": "https://cp.ectn.uz/files//2ta_shaurma_wb.png"
+  },
+  {
+    "id": 2,
+    "name": "Kids-Quadrich",
+    "description": "Kids-Quadrich-square sandwich in crispy cheese ciabatta with the",
+    "price": "16 000sum",
+    "img": "https://cp.ectn.uz/files//kids_kvadrich_22_01.png"
+  },
+  {
+    "id": 3,
+    "name": "Beef Fresh Burger",
+    "description": "An incredible combination of a delicious beef patty with Caesar",
+    "price": "28 000sum",
+    "img": "https://cp.ectn.uz/files//freshburger_gov_wb.png"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Fresh Burger",
+    "description": "An incredible combination of a delicious chicken patty with Caesar",
+    "price": "24 000sum",
+    "img": "https://cp.ectn.uz/files//freshburger_kur_wb.png"
+  },
+  {
+    "id": 5,
+    "name": "Brownito with Ice Cream",
+    "description": "An incredible delicious combination of hot,soft chocolate-filled cake",
+    "price": "17 000sum",
+    "img": "https://cp.ectn.uz/files//brauni_wb.png"
+  },
+  {
+    "id": 6,
+    "name": "Special flavoring Spicy",
+    "description": "Craving something with a kick? This one's for you!The fiery blend",
+    "price": "6 000sum",
+    "img": "https://cp.ectn.uz/files//privrava_achchiq_wb.png"
+  },
+  {
+    "id": 7,
+    "name": "Special flavoring Sour Cream",
+    "description": "The classic combination of sour cream and onion is the perfect way",
+    "price": "6 000sum",
+    "img": "https://cp.ectn.uz/files//smetansous_wb.png"
+  },
+  {
+    "id": 8,
+    "name": "7up on Tap",
+    "description": "Draft 7up in paper cup 0,4l",
+    "price": "9 000sum",
+    "img": "https://cp.ectn.uz/files//7up_wb.png"
+  }
+]
